@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class LilyApplication {
-    //提交git
+    //提交git  sshkey设置
     public static void main(String[] args) {
         SpringApplication.run(LilyApplication.class, args);
     }
