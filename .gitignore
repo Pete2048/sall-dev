@@ -46,3 +46,5 @@ mobile.sql
 tmp/
 *.tmp
 *.bak
+.mvn
+/src/test
