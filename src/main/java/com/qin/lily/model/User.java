@@ -1,4 +1,4 @@
-package com.qin.lily.domain;
+package com.qin.lily.model;
 
 public class User {
     private String name;
