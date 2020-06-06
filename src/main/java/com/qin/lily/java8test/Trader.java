@@ -3,7 +3,7 @@ package com.qin.lily.java8test;
 import lombok.Data;
 
 /**
- * @description:交易员
+ * @description:交易员test
  * @author: Pete
  * @date: Created in 2020/6/6 10:40
  * @modified By:
